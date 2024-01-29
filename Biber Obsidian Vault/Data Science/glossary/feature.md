@@ -1,0 +1,1 @@
+individual measurable property or characteristic of a phenomenon (e.g. age, gender, price)

@@ -1,0 +1,3 @@
+- External sensor connected to DCS/SCADA
+- [[Analog signal]] such as pressure, temperature, etc.
+- [[Digital signal]]

@@ -1,0 +1,1 @@
+type of [[statistics]] that describes data, giving its behaviors and characteristics such as [[mean]]-[[median]]-[[mode]] ([[measures of central tendency]]), [[maximum]]/[[minimum]], [[standard deviation]], [[percentiles]], etc. 

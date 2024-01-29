@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "fa81e80be65d0a0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7019635fa6258c60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cafbc638f04906d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soft Skills/Communication/Think Fast, Talk Smart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b377c33fbd7a1080",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Data Science Main.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac380a9eb876b395",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/glossary/qualitative analytics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71fce96906cee661",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/Machine Learning Main.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9d3f0ee10fb98b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1855e85d9ba285ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d98914bf2687dc8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "a97ac1b9bab16709",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40f3602b524ebe25",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f003c108b899c383",
+    "type": "split",
+    "children": [
+      {
+        "id": "df9017291c5bd0f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aede9c98a6a888d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Science/Machine Learning Main.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e64b21112e81cb6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data Science/Machine Learning Main.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d738eb3da760203b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "83495addfea54e99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data Science/Machine Learning Main.md"
+              }
+            }
+          },
+          {
+            "id": "f20cf789fcda29e2",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Data Science/Machine Learning Main.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0026144588154053,
+                  "close": false
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 632.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "71fce96906cee661",
+  "lastOpenFiles": [
+    "Git/branch.md",
+    "Git/Main.md",
+    "Data Science/Machine Learning Main.md",
+    "Random/4 things to be an expert.md",
+    "Web Development/HTML",
+    "Random",
+    "Data Science/Data Science Main.md",
+    "Data Science/glossary/big data.md",
+    "Data Science/glossary/artificial intelligence.md",
+    "Data Science/glossary/qualitative analytics.md",
+    "Data Science/glossary/machine learning.md",
+    "Data Science/glossary/feature.md",
+    "Data Science/glossary",
+    "Statistics/Statistics Main.md",
+    "Statistics/descriptive statistics.md",
+    "Web Development/Django/views.md",
+    "Web Development/Django/How to develop django website.md",
+    "Git",
+    "Statistics/glossary/data.md",
+    "Data Science/glossary/business intelligence.md",
+    "Data Science/glossary/quantitative analytics.md",
+    "Data Science",
+    "Soft Skills/Communication/Think Fast, Talk Smart.md",
+    "Note Taking/Notetaking Main.md",
+    "Note Taking/Zettelkasten/permanent notes.md",
+    "Note Taking/Zettelkasten/literature notes.md",
+    "Note Taking/Zettelkasten/fleeting notes.md",
+    "Alarms Management/7 steps/Develop, Adopt, and Maintain an Alarm Philosophy.md",
+    "Alarms Management/7 Steps for effective alarms management.md",
+    "Alarms Management/7 steps/Perform Bad Actor Alarm Resolution.md",
+    "Alarms Management/Untitled.canvas",
+    "Soft Skills/Communication",
+    "Soft Skills/Leadership",
+    "Soft Skills",
+    "Note Taking/Zettelkasten",
+    "attach/3_types_of_notes.png",
+    "Pasted image 20231119133222.png",
+    "Note Taking",
+    "attach/analog_control_room_panel.png"
+  ]
+}

@@ -1,0 +1,2 @@
+- normally counting numbers or integers
+- indivisible values such as number of children, failure count

@@ -1,0 +1,1 @@
+type of web page in a django application that has a specific function and template

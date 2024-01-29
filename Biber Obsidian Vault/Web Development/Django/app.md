@@ -1,0 +1,1 @@
+App is a web application that does something

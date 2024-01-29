@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"9bfbd0ef4edd00f3","type":"file","file":"Alarms Management/Common DCS and SCADA Alarm Display Capabilities.md","x":-360,"y":-140,"width":527,"height":605},
+		{"id":"57c0c389e94107dc","type":"file","file":"Alarms Management/7 Steps for effective alarms management.md","x":-820,"y":-140,"width":420,"height":605}
+	],
+	"edges":[]
+}

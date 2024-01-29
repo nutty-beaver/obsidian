@@ -1,0 +1,1 @@
+Project is a collection of configuration and apps for a particular website

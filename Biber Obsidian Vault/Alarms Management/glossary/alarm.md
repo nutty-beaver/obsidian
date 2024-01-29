@@ -1,0 +1,1 @@
+An alarm is an audible and/or visible means of indicating to the operator and equipment malfunction, process deviation, or abnormal condition requiring a response

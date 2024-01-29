@@ -1,0 +1,3 @@
+- observations with decimal
+- unspecified number of possible measurements between two points
+- example are height and weight

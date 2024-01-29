@@ -1,0 +1,3 @@
+- tool for collecting and organizing information
+- made up of [[tables]] that contain [[columns]] and [[rows]]
+- useful for large scale [[data]] can't contained by [[spreadsheet]]
